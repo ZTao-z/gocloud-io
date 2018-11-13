@@ -11,10 +11,15 @@
 
 #### 1、支持静态文件服务
 访问静态文件目录
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112152229778.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
+
 查看css/index.css
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112152451891.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
+
 查看images/1.jpg
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112152612156.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
 #### 2、支持简单 js 访问
 访问/getInfo路径，获取并显示文本信息
