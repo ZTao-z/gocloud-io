@@ -22,16 +22,26 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112152612156.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
 #### 2、支持简单 js 访问
+
 访问/getInfo路径，获取并显示文本信息
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181113141130321.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
 #### 3、提交表单，并输出一个表格
+
 输入表单
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112153413885.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RoaW5rX0FfbG90,size_16,color_FFFFFF,t_70)
+
 输出表格
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112153609574.png)
+
 #### 4、对 /unknown 给出开发中的提示，返回码 5xx
+
 访问localhost:8080/unknown路径，返回501错误。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181112153711386.png)
+
 ### 四、提高要求
 
 #### 1、分析阅读`gzip`过滤器的源码
